@@ -1,14 +1,11 @@
 ##India
-## population
+## population - 7 billion
 
 
-## capital
-
- 
-## official language
+## capital - New Delhi
 
 
-## interesting trivia
+## official language - None/English
 
 
-
+## interesting trivia 
