@@ -1,12 +1,14 @@
 ##Egypt
 ## population
-100000000
+main
+100.4 million
 
 ## capital
 Cairo
  
 ## official language
-English
+main
+Egyptian Arabic
 
 ## interesting trivia
 aa
